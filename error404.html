@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+h2 {
+  color: white;
+  text-align: center;
+  animation-name: fade;
+  animation-duration: 8s;
+}
+.websitestyle {
+   filter: blur(10px);
+  background-color: lightgray;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -250px;
+  width: 500px;
+  height: 100px;
+}
+body {
+  background-color: black;
+}
+.border {
+  margin-top: -50px;
+  margin-left: -55.5px;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  position: absolute;
+  /* Standard syntax */
+  animation-name: example;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+.border2 {
+  margin-top: -50px;
+  margin-left: -55.5px;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  position: absolute;
+  /* Standard syntax */
+  animation-name: example2;
+  animation-duration: 10s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+.maintenance {
+  position: fixed;
+  top: 42%;
+  left: 58%;
+  width: 111px;
+  height: 100px;
+}
+.logo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -200px;
+  width: 250px;
+  height: 100px;
+}
+@keyframes fade {
+  0% {opacity: 0%;}
+  100% {opacity: 100%;}
+}
+@keyframes example {
+  0%   {background-color:red; left:35%; top:47%;}
+  25%  {background-color:yellow; left:70%; top:47%;}
+  50%  {background-color:blue; left:70%; top:65%;}
+  75%  {background-color:green; left:35%; top:65%;}
+  100% {background-color:red; left:35%; top:47%;}
+}
+@keyframes example2 {
+  0%   {background-color:red; left:35%; top:65%;}
+  25%  {background-color:yellow; left:70%; top:65%;}
+  50%  {background-color:blue; left:70%; top:47%;}
+  75%  {background-color:green; left:35%; top:47%;}
+  100% {background-color:red; left:35%; top:65%;}
+}
+</style>
+
+</head>
+<body oncontextmenu="return false" onkeydown="return false;" onmousedown="return false;">
+  
+  <div class="websitestyle"></div>
+  <img src="elwisslogotext.png" alt="Elwiss Tech Services" class="logo">
+  <img src="elwisslogoface404.png" alt="404 Error" class="maintenance">
+
+  <div class="border"></div>
+  <div class="border2"></div>
+
+  <h2><b>An error occurred. Either the website is down or it has been moved.</b></h2>
+  <h3>Please contact jmskindness@gmail.com.</h3>
+</body>
+</html>
