@@ -1,0 +1,148 @@
+<html>
+<head>
+<link rel="shortcut icon" type="image/x-icon"
+href="https://p15cdn4static.sharpschool.com/UserFiles/Servers/Server_77907/Templates/JacksonMS.png">
+<title>Pay It Forward Movie Night</title>
+</head>
+<body>
+<style>
+  .email{
+    text-align:center;
+  }
+::selection {
+background: red; /* WebKit/Blink Browsers */
+}
+html {
+background-color: yellow;
+height: screen.height;
+}
+body {
+height: 0%;
+}
+@font-face {
+font-family: Agnetha;
+src: url('Carnevalee Freakshow.ttf');
+}
+.center {
+font-family: "Arial", Arial, sans-serif;
+text-align: center;
+}
+head {
+color: black;
+}
+h1 {
+letter-spacing: 3px;
+font-family: Agnetha;
+text-align: center;
+}
+.ImageBorder {
+border: 10px solid #000000;
+padding: 0px;
+margin-left:30%;
+float:left;
+}
+.Survey {
+display: block;
+border: 100px solid #000000;
+padding: 0px;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+}
+.chickennugget {
+float:left;
+}
+div {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1 {
+letter-spacing: 3px;
+font-family: Agnetha;
+}
+h2 {
+letter-spacing: 3px;
+text-align: center;
+font-family: Agnetha;
+}
+h3 {
+letter-spacing: 3px;
+text-align: center;
+font-family: Agnetha;
+}
+a {
+color: purple;
+}
+.T-top {
+font-size=18px;
+}
+.JACKSON {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-width: 3px;
+border-color: Black;
+width: 3%
+}
+.Description {
+border-width:10px;
+}
+clear {
+clear: both;
+}
+.hello {
+text-align:center;
+width: 50%;
+}
+p.collab {
+text-align:center;
+}
+.ElwissWatermark {
+position: fixed;
+right: 2px;
+top: 92.5%;
+}
+#rcorners1 {
+border-radius: 25px;
+background: #00FFEE;
+padding: 0px;
+width: 100%;
+height: 30%;
+}
+</style>
+<head>
+<div class="ElwissWatermark">
+<p id="rcorners1">
+<b>JMS Movie Night hosted by <a href="mailto:jmskindness@gmail.com">The Kindness Committee.</a>
+(Elwiss, Diana, and Jasmin)</b></p>
+</div>
+<h1>Currently Playing in the Media Center:</h1>
+<p class="collab">In collaboration with the Community Service group <B>"The T.A.D.S." (Peter, Harris, and Anthony.)</b></p>
+<br>
+<br>
+<br>
+<div>
+<img src="p26368_v_v8_ag.jpg" class="ImageBorder" alt="Pay It Forward Movie Thumbnail" style="width:300px;height:400px;margin-right:20px;">
+<div id="Description" style="width:6in;">
+"The story of a social studies teacher who gives an assignment to his junior high school class
+to think of an idea to change the world for the better, then put it into action. When one young student creates
+a plan for "paying forward" favors, he not only affects the life of his struggling single mother, but he sets in
+motion an unprecedented wave of human kindness which, unbeknownst to him, has blossomed into a profound national
+phenomenon."<br>
+<b><a href="https://www.imdb.com/title/tt0223897/">-IMDB</a></b>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+<div class="email">
+<b> For any inquiries or questions, please contact <a href:"mailto:jmskindness@gmail.com">jmskindness@gmail.com</a>.</b>
+</div>
+</body>
+<div style="clear:both">
+<br>
+<img src="https://p15cdn4static.sharpschool.com/UserFiles/Servers/Server_77907/Templates/JacksonMS.png" alt="jmslogo" class="JACKSON" style="width:70px;height:70px;">
+</div>
+</html>
