@@ -202,6 +202,9 @@ body,														/* body														*/
 #app-mount .container-1r6BKw.themed-ANHk51 {				/* channelheader		container							*/
 	background-color: rgba(var(--vtransparencycolor), var(--vguildchanneltransparency));
 }
+#app-mount .members-1998pB {
+  background-color: rgba(0, 0, 0, var(--right-brightness));
+}
 #app-mount .membersWrap-2h-GB4 {							/* members				container							*/
 	background-color: rgba(var(--vtransparencycolor), var(--vmemberlisttransparency));
 }
