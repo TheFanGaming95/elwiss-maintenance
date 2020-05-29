@@ -3,6 +3,10 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
 :root {
+	#app-mount .messages-3amgkR {
+  background-color: transparent;
+  text-shadow: 0px 3px 3px rgba(0, 0, 0, var(--text-shadow));
+	}
 	--dtransparencyalpha:			0,0,0;
 	--dgeneraltransparency:			0.15;
 	--dmessagetransparency:			0.5;
