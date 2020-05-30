@@ -1504,6 +1504,9 @@ body:before {
 	border-color: rgba(var(--vtransparencycolor), 0.1);
 	box-shadow: none;
 }
+#app-mount .anchor-3Z-8Bb{
+	color: rgb(227, 143, 255);
+}
 #app-mount .searchResult-2N9RV4.expanded-ovgtuV {
 	background-color: rgba(var(--vtransparencycolor), 0.1);
 	border-color: rgba(var(--vtransparencycolor), 0.1);
