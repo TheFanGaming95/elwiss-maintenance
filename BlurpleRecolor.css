@@ -425,8 +425,8 @@
 
 .message-15tBk4 strong,										/* mention				in header							*/
 .wrapper-3WhCwL {											/* mention													*/
-	background-color: rgba(var(--vaccentcolor), 0.1);
-	color: rgb(var(--vaccentcolor));
+	background-color: rgba(var(--vpingbackgroundcolir), 0.1);
+	color: rgb(var(--vpingnamecolor));
 }
 .message-15tBk4 strong:hover,
 .interactive:hover {
